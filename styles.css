@@ -1,0 +1,41 @@
+/* the page styles */
+
+html {
+    background-color: #D2D68D;
+}
+
+body {
+    width: 700px;
+    background-color: #F4FEC1;
+    text-align: center;
+    margin: auto;
+}
+
+h1 {color: #68534D;}
+
+h2 {
+    color: #81726A;
+    background-color: #D9F9A5;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+
+li a {
+    display: block;
+    padding: 8px;
+    background-color:#D9F9A5;
+}
+
+p {
+    margin: 2px;
+    padding: 2px;
+}
+
+/*other color is #D2D68D */
